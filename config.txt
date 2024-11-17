@@ -1,1 +1,3 @@
 folder_path=/path/to/your/Java_Project
+lines_threshold=3
+

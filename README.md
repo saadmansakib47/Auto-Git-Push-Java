@@ -1,6 +1,6 @@
 # AutoGitPushJava 
 
-Commits automatically to your github repository after each 3 lines of coding in a Java project.
+Commits automatically to your github repository after each 'n' lines of coding in a Java project.
 
 
 ## Important Notes
@@ -14,7 +14,7 @@ Commits automatically to your github repository after each 3 lines of coding in 
 
 ### 1. Running the Script
 
-After downloading, first set your target project directory in the config.txt file.
+After downloading, first set your target project directory in the config.txt file, and set the value of n.
 Then Execute the script directly from cmd for once :
 
 ```bash

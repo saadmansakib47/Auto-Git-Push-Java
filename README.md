@@ -1,4 +1,4 @@
-#AutoGitPushJava 
+# AutoGitPushJava 
 
 Commits automatically to your github repository after each 3 lines of coding in a Java project.
 
